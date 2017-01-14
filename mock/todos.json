@@ -1,0 +1,9 @@
+todos = [
+		{"name": "clean the house"},
+		{"name": "water the lawn"},
+		{"name": "feed the dog"},
+		{"name": "pay dem bills"},
+		{"name": "read newspaper"},
+		{"name": "fix toaster"},
+		{"name": "fix oven"}
+	]
